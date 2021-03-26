@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '小組組員：40823228、40823242、40823204、40823220', 'tags': '', 'url': 'About.html'}, {'title': '每周進度', 'text': '', 'tags': '', 'url': '每周進度.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '小組專題: 雲霄咖飛車 \n 小組組員：40823228、40823242、40823204、40823220 \n 小組倉儲: https://40823204.github.io/stage2-bg14/content/index.html \n', 'tags': '', 'url': 'About.html'}, {'title': '每周進度', 'text': '', 'tags': '', 'url': '每周進度.html'}]};
