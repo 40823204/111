@@ -377,9 +377,6 @@ vertical: body pane on the botton</t>
      &lt;h5&gt;參考資料來源&lt;/h5&gt;
      &lt;h6&gt;&lt;a href="https://www.youtube.com/watch?v=lBvupDcRfts"&gt;https://www.youtube.com/watch?v=lBvupDcRfts&lt;/a&gt;&lt;/h6&gt;
      &lt;h6&gt;&lt;a href="https://stuhlertmaq.com.br/carrinho-de-transporte-de-argamassa/"&gt;https://stuhlertmaq.com.br/carrinho-de-transporte-de-argamassa/&lt;/a&gt;&lt;/h6&gt;
-     &lt;h6&gt;&lt;a href="http://www.sky-eagle.com.tw/p-3.html/&lt;/a&gt;&lt;/h6&gt;
-     &lt;h6&gt;&lt;a href="https://zh.wikipedia.org/wiki/%E5%B9%B3%E9%9D%A2%E5%9B%9B%E6%9D%86%E6%9C%BA%E6%9E%84l/&lt;/a&gt;&lt;/h6&gt;
-     &lt;h6&gt;&lt;a href="http://bloggerkevinyu.blogspot.com/p/inventor-cae-/&lt;/a&gt;&lt;/h6&gt;
 &lt;/section&gt;
 
 
