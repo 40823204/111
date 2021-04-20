@@ -39,14 +39,16 @@
 <v t="123.20210419165430.1"><vh>slide 3-15</vh></v>
 <v t="123.20210419165639.1"><vh>slide 3-16</vh></v>
 </v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="leo.20200818171138.1"><vh>slide 5 </vh>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
+</v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
+<v t="leo.20200818171344.1"><vh>slide 9</vh>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
 <v t="leo.20200818194721.1"><vh>slide 11</vh></v>
 <v t="leo.20200818194751.1"><vh>slide 12</vh></v>
+</v>
 <v t="leo.20200818194840.1"><vh>slide 14</vh></v>
 <v t="leo.20200818195039.1"><vh>slide 15</vh></v>
 </v>
@@ -289,47 +291,51 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;img alt="" height="295" src="./../images/CNS 3128-M2x0.4.png" width="525"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
+   &lt;section&gt;
    &lt;h2&gt;CoppeliaSimEdu_4.1.0_rev1模擬&lt;/h2&gt;
    &lt;p&gt;&lt;a href="https://drive.google.com/file/d/16bv62ophp7LMHK-MCr2VOIh_SnE_-a_T/view?usp=sharing"&gt;模擬檔下載&lt;/a&gt;&lt;/p&gt;
     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eK0nhj23s-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
- &lt;/section&gt;
+   &lt;/section&gt;
 </t>
-<t tx="leo.20200818171215.1">&lt;section&gt;
+<t tx="leo.20200818171215.1">   &lt;section&gt;
    &lt;h2&gt;SOLIDWORKS 2017模擬&lt;/h2&gt;
     &lt;p&gt;圖檔/動畫資料下載:&lt;a href="./../downloads/搬運機.zip"&gt;搬運機.zip&lt;/a&gt;&lt;/p&gt;
     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xQkyIcfL3Gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;
- &lt;/section&gt;</t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="leo.20200818171244.1">   &lt;section&gt;
    &lt;h2&gt;INVENTOR模擬&lt;/h2&gt;
     &lt;p&gt;圖檔/動畫資料下載:&lt;a href="./../downloads/搬運機.zip"&gt;搬運機.zip&lt;/a&gt;&lt;/p&gt;
     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7b0H24pmaM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;
- &lt;/section&gt;
+   &lt;/section&gt;
+&lt;/section&gt;
 </t>
 <t tx="leo.20200818171312.1"> &lt;section&gt;
     &lt;h2&gt;PDF檔案&lt;/h2&gt;
    &lt;p&gt;&lt;span&gt;&lt;/span&gt;1.PDF檔案:&lt;a href="https://drive.google.com/file/d/1Y83VGGkDXYSVAEIbtm2EjOc9-7odPcu2/view?usp=sharing"&gt;點此下載&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171344.1"> &lt;section&gt;
-    &lt;h2&gt;40823204心得&lt;/h2&gt;
-    &lt;h4&gt;&lt;/h4&gt;
-&lt;/section&gt;
+   &lt;section&gt;
+   &lt;h2&gt;40823204心得&lt;/h2&gt;
+   &lt;h4&gt;&lt;/h4&gt;
+   &lt;/section&gt;
 </t>
-<t tx="leo.20200818171412.1"> &lt;section&gt;
+<t tx="leo.20200818171412.1">    &lt;section&gt;
     &lt;h2&gt;40823220心得&lt;/h2&gt;
     &lt;h4&gt;&lt;/h4&gt;
-&lt;/section&gt;
+    &lt;/section&gt;
 </t>
-<t tx="leo.20200818194721.1"> &lt;section&gt;
+<t tx="leo.20200818194721.1">    &lt;section&gt;
     &lt;h2&gt;40823228心得&lt;/h2&gt;
     &lt;h4&gt;&lt;/h4&gt;
-&lt;/section&gt;
+    &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818194751.1"> &lt;section&gt;
+<t tx="leo.20200818194751.1">    &lt;section&gt;
     &lt;h2&gt;40823242心得&lt;/h2&gt;
     &lt;h4&gt;&lt;/h4&gt;
+    &lt;/section&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818194840.1">&lt;section&gt;
