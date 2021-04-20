@@ -374,7 +374,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818194840.1">&lt;section&gt;
-     &lt;h5&gt;資料來源&lt;/h5&gt;
+     &lt;h5&gt;參考資料來源&lt;/h5&gt;
      &lt;h6&gt;&lt;a href="https://www.youtube.com/watch?v=lBvupDcRfts"&gt;https://www.youtube.com/watch?v=lBvupDcRfts&lt;/a&gt;&lt;/h6&gt;
      &lt;h6&gt;&lt;a href="https://stuhlertmaq.com.br/carrinho-de-transporte-de-argamassa/"&gt;https://stuhlertmaq.com.br/carrinho-de-transporte-de-argamassa/&lt;/a&gt;&lt;/h6&gt;
      &lt;h6&gt;&lt;a href="http://www.sky-eagle.com.tw/p-3.html/&lt;/a&gt;&lt;/h6&gt;
