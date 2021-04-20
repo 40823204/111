@@ -288,7 +288,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
    &lt;h1&gt;機構原理&lt;/h1&gt;
-   &lt;h2&gt;利用連趕機構，控制平台角度移動，使得平台可以台升普力桶，達成移動效果。&lt;/h2&gt;
+   &lt;h2&gt;利用連桿機構，控制平台角度移動，使得平台可以抬升普力桶，達成移動效果。&lt;/h2&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170909.1">   &lt;section&gt;
@@ -328,28 +328,48 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818171312.1"> &lt;section&gt;
     &lt;h2&gt;PDF檔案&lt;/h2&gt;
-   &lt;p&gt;&lt;span&gt;&lt;/span&gt;1.PDF檔案:&lt;a href="https://drive.google.com/file/d/1Y83VGGkDXYSVAEIbtm2EjOc9-7odPcu2/view?usp=sharing"&gt;點此下載&lt;/a&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;span&gt;&lt;/span&gt;1.PDF檔案:&lt;a href="https://drive.google.com/file/d/161wup0sdlnYtTcgYr0djx1WULFEW22HG/view?usp=sharing"&gt;點此下載&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171344.1"> &lt;section&gt;
    &lt;section&gt;
    &lt;h2&gt;40823204心得&lt;/h2&gt;
-   &lt;h4&gt;&lt;/h4&gt;
+   &lt;h4&gt;有了二人小組的經驗，我們在四人小組中討論起來更加得心
+印手，分配工作上不像在二人小組的時候，有很多東西要處
+理，工作上較為輕鬆，可以依個人的專長分配不同的工作，
+但在網站上的維護就提升了許多，需要大家一起溝通調協。&lt;/h4&gt;
    &lt;/section&gt;
 </t>
 <t tx="leo.20200818171412.1">    &lt;section&gt;
     &lt;h2&gt;40823220心得&lt;/h2&gt;
-    &lt;h4&gt;&lt;/h4&gt;
+    &lt;h4&gt;經過二人分組的洗禮，我大概能掌握這學期課程的節奏，而
+到了四人分組的時候，我發現雖然工作量變多、倉儲維護也
+變困難了，但有分配好工作量給每個人的話，我覺得其實比
+兩人分組還輕鬆一點，在討論主題的時後也有更多的建議跟
+想法，還可以依據每個人的專長分別做出不同軟體的模擬，
+真的很棒。希望之後的八人一組還能如此順利的完成。&lt;/h4&gt;
     &lt;/section&gt;
 </t>
 <t tx="leo.20200818194721.1">    &lt;section&gt;
     &lt;h2&gt;40823228心得&lt;/h2&gt;
-    &lt;h4&gt;&lt;/h4&gt;
+    &lt;h4&gt;本次的專題，是採取四人小組，較上次的兩人小組多了兩個
+人，而此次的專題製作過程，讓我體會到四人小組較以往二
+人小組的差別，過程中有好有壞，優點是做起事來，不僅更
+加快速，能做的事情也更多了，而且遇到問題時，大家可以
+互相討論，每個人的想法不同，也能看到更多不一樣的東西，
+而缺點就是，因為組員增加了，所以在網站的維護方面，也
+比較困難，所以小組必須要常常進行討論且共同維護網站，
+接下來要進去八人小組，若工作分配得宜的話，肯定可以創
+造更好的專題。&lt;/h4&gt;
     &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818194751.1">    &lt;section&gt;
     &lt;h2&gt;40823242心得&lt;/h2&gt;
-    &lt;h4&gt;&lt;/h4&gt;
+    &lt;h4&gt;五到九周，是採取四人小組，也因為有兩人小組的經驗，讓
+我能馬上進入四人小組運作模式，很多東西跟兩人小組相似，
+做起事來也更加順手，其中成員越多，網站也較難維護，所
+以小組須經常討論溝通，共同維護網站，接下來的八人小組，
+若工作分配得宜的話，一定可以完成更好的成果。&lt;/h4&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 </t>
@@ -357,6 +377,9 @@ vertical: body pane on the botton</t>
      &lt;h5&gt;資料來源&lt;/h5&gt;
      &lt;h6&gt;&lt;a href="https://www.youtube.com/watch?v=lBvupDcRfts"&gt;https://www.youtube.com/watch?v=lBvupDcRfts&lt;/a&gt;&lt;/h6&gt;
      &lt;h6&gt;&lt;a href="https://stuhlertmaq.com.br/carrinho-de-transporte-de-argamassa/"&gt;https://stuhlertmaq.com.br/carrinho-de-transporte-de-argamassa/&lt;/a&gt;&lt;/h6&gt;
+     &lt;h6&gt;&lt;a href="http://www.sky-eagle.com.tw/p-3.html/&lt;/a&gt;&lt;/h6&gt;
+     &lt;h6&gt;&lt;a href="https://zh.wikipedia.org/wiki/%E5%B9%B3%E9%9D%A2%E5%9B%9B%E6%9D%86%E6%9C%BA%E6%9E%84l/&lt;/a&gt;&lt;/h6&gt;
+     &lt;h6&gt;&lt;a href="http://bloggerkevinyu.blogspot.com/p/inventor-cae-/&lt;/a&gt;&lt;/h6&gt;
 &lt;/section&gt;
 
 
