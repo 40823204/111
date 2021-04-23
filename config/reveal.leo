@@ -49,6 +49,7 @@
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
+<v t="123.20210423163214.1"><vh>slide 17</vh></v>
 <v t="leo.20200818194721.1"><vh>slide 11</vh></v>
 <v t="leo.20200818194751.1"><vh>slide 12</vh></v>
 </v>
@@ -127,6 +128,11 @@
 &lt;p&gt;
    &lt;/section&gt;
 &lt;/section&gt;
+</t>
+<t tx="123.20210423163214.1">    &lt;section&gt;
+    &lt;h2&gt;40823205心得&lt;/h2&gt;
+    &lt;h4&gt;雖然有stage1的經驗，但因為養傷比較晚加入stage2的組別，所以有些困難難上手，還好組員們都很厲害，幫了我很多忙，希望我在stage3的8人分組能補足4人沒做足的地方。&lt;/h4&gt;
+    &lt;/section&gt;
 </t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
@@ -268,7 +274,7 @@ vertical: body pane on the botton</t>
     &lt;h1&gt;協同產品設計實習 報告&lt;/h1&gt;
     &lt;h2&gt;stage2-bg14&lt;/h2&gt;
 &lt;p&gt;
-&lt;small&gt;成員 &lt;a href="https://github.com/40823204/stage2-bg14"&gt;40823204&lt;/a&gt; 和 &lt;a href="https://github.com/40823220/stage2-bg14"&gt;40823220&lt;/a&gt; 和 &lt;a href="https://github.com/40823228/stage2-bg14"&gt;40823228&lt;/a&gt;和 &lt;a href="https://github.com/40823242/stage2-bg14"&gt;40823242&lt;/a&gt;&lt;/small&gt;
+&lt;small&gt;成員 &lt;a href="https://github.com/40823204/stage2-bg14"&gt;40823204&lt;/a&gt; 和 &lt;a href="https://github.com/40823205/stage2-bg14"&gt;40823205&lt;/a&gt;和 &lt;a href="https://github.com/40823220/stage2-bg14"&gt;40823220&lt;/a&gt; 和 &lt;a href="https://github.com/40823228/stage2-bg14"&gt;40823228&lt;/a&gt;和 &lt;a href="https://github.com/40823242/stage2-bg14"&gt;40823242&lt;/a&gt;&lt;/small&gt;
 &lt;/p&gt;
 &lt;/section&gt;
 
